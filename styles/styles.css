@@ -38,6 +38,7 @@ p {
   cursor: pointer;
   font: 700 0.75rem "Source Sans Pro";
   transition: 0.3s;
+  color: rgba(0, 0, 0, 0.685);
 }
 .button:hover,
 footer a:hover {
@@ -166,6 +167,7 @@ footer a {
   justify-content: center;
   align-items: center;
   transition: 0.3s;
+  color: rgba(0, 0, 0, 0.685);
 }
 /******************RESPONSIVE*******************/
 @media screen and (max-width: 650px) {
